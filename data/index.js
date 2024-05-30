@@ -4,7 +4,7 @@ let DATA =  [
     porcentagem :'5%', 
     titulo : 'Assistir todas as lives das noitadas',
     imagem :'https://i.pinimg.com/originals/fc/4d/2c/fc4d2cc9cf366bd65ebd09e664cb476f.jpg',
-     Descricao :'Amo assistir o Alan, Cap, Galagol, Fall, Vx, Dino, jogando jogos duvidosos e engraçados'  
+     Descricao :'Amo assistir o Alan, Cap, Galagol, Fall, Vx, Dino, jogando jogos duvidosos e engraçados, me divirto muito com eles'  
     },
     {
      id:'02',
